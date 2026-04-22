@@ -1,0 +1,1 @@
+g++ -w -o -c -Wall -g -Wextra -pedantic -std=c++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Pr2.dir/src/alfabeto.cc.o CMakeFiles/Pr2.dir/src/cadena.cc.o CMakeFiles/Pr2.dir/src/funciones.cc.o CMakeFiles/Pr2.dir/src/lenguaje.cc.o CMakeFiles/Pr2.dir/src/main.cc.o -o Pr2
